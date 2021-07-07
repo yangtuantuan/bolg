@@ -1,0 +1,40 @@
+.bread {
+  padding         : .5rem;
+  border-bottom   : 1px solid #eee;
+  background-color: #e1f0ff;
+}
+
+.title {
+  font-size : 1.8rem;
+  text-align: center;
+  padding   : 1rem;
+}
+
+.icon {
+  padding   : .5rem 0;
+  color     : #AAA;
+  text-align: center;
+}
+
+.icon span {
+  display: inline-block;
+  padding: 0 10px;
+}
+
+.content {
+  padding  : 1.3rem;
+  font-size: 1rem;
+}
+
+.nav {
+  margin-top: .3rem;
+}
+
+.nav_title {
+  text-align    : center;
+  border-bottom : 1px solid #1890ff;
+  padding-bottom: 10px;
+  color         : #1890ff;
+}
+
+ 
